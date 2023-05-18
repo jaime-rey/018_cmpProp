@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'cmpProp';
+  title = 'app works!';
+  ponFondo = true;
+  mostrar = true;
+  habilitar = false;
+  referencia = "http://www.google.com";
+
 }

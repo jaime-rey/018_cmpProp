@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+.fondo {
+  background: rgb(138, 95, 108);
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.tamB {
+  height: 60px;
+  width: 200px
+}
